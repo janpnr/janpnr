@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @janpnr
-- 👀 I’m interested in android coding
-- 🌱 I’m currently learning.
-- 💞️ I’m looking to collaborate
 - 📫 How to reach me ... walletstatusapp@gmail.com
 
 <!---
